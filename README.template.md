@@ -4,11 +4,7 @@
 ## ⚡️ Routes
 | Method | Endpoint | Description |
 |-|-|-|
-| `GET` | `/` | Responds with my personal information. |
-| `GET` | `/projects` | List of projects I'm working on, organizations I've created. |
-| `GET` | `/tweets` | Curated feed of my Twitter tweets and threads. |
-| `GET` | `/videos` | Feed of my latest YouTube videos. |
-
+<!-- {routes} -->
 
 ## 📰 License
 > The **mahat** project is released under the [GPL v2](LICENSE.md). <br> Developed &amp; maintained By Vasanth Srivatsa. Copyright 2021 © Vasanth Developer.
