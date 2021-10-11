@@ -11,6 +11,6 @@
 
 
 ## 📰 License
-> The **mahat** project is released under the [GPL v2](LICENSE.md).  Copyright 2021 
+> The **mahat** project is released under the [GPL v2](LICENSE.md).  
 <hr>
 
